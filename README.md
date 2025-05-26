@@ -30,7 +30,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/StockScope.git
+git clone https://github.com/Kirankumarvel/StockScope-Stock-Price-Analysis-Dashboard.git
 cd StockScope
 pip install -r requirements.txt
 ```
