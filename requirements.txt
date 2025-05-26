@@ -1,0 +1,4 @@
+matplotlib==3.8.0  
+pandas==2.0.3  
+numpy==1.24.0  
+yfinance==0.2.31  # Optional (for live stock data)  
